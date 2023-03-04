@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoLoc</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list_view">History</string>
+    <string name="title_activity_add_location">Location details</string>
+    <string name="maps_activity_search_button">Search</string>
+    <string name="maps_activity_button">Add new place</string>
+    <string name="maps_activity_search_text_hint">Enter the name</string>
+    <string name="add_location_activity_description_hint">Description</string>
+    <string name="add_location_proximity_radius_hint">Proximity radius</string>
+    <string name="add_location_activity_name_hint">Name</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Add location</string>
+    <string name="latitude_string">latitude</string>
+    <string name="longitude_string">longitude</string>
+    <string name="empty_string"></string>
+</resources>
