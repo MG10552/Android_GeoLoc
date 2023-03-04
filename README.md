@@ -2,7 +2,7 @@
 
 Zadanie polega na stworzeniu aplikacji, która będzie umożliwiała otrzymywanie najbardziej aktualnych współrzędnych miejsca, w którym się w tym czasie znajdujemy, z możliwością dodania go wraz z opisem do listy miejsc odwiedzonych. Dodatkowo powinno być możliwe wyświetlenie wszystkich miejsc na mapie wraz z ich wskaźnikami (markers). W przypadku wkroczenia lub opuszczenia terenu (np. 100 metrów wokół współrzędnych), aplikacja powinna informować o tym fakcie poprzez tworzenie notyfikacji.
 
-	Wymagania:
+ Wymagania:
 
 1) 2 widoki:
 	Widok A: Mapa z wyznaczonymi odwiedzonymi miejscami.
