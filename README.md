@@ -5,8 +5,12 @@ Zadanie polega na stworzeniu aplikacji, która będzie umożliwiała otrzymywani
 Wymagania:
 
 2 widoki:
+
 Widok A: Mapa z wyznaczonymi odwiedzonymi miejscami.
 Widok B: Składa się z 3 TextView i EditText (nazwa, opis miejsca, promień jaki obejmuje) oraz przycisku do dodania miejsca, w którym się znajdujemy do listy odwiedzonych. [4 pkt]
+
 Lista odwiedzonych miejsc powinna się składać z nazwy, opisu, promienia oraz współrzędnych geograficznych. Powinna także być zapisywana i dostępna po kolejnym uruchomieniu aplikacji. Nie ma wymagań, co do użytej metody zapisu (SQLite, zwykły plik, chmura itp.). [3 pkt]
+
 Aplikacja powinna notyfikować o wkroczeniu lub opuszczeniu dowolnego z miejsc (proximity alert lub Geofence). [3 pkt]
+
 Łączna liczba punktów do uzyskania: 10
